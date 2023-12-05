@@ -43,7 +43,7 @@ async function handleRequest(req: Request) {
     return new Response(homeland, { headers: { "content-type": "text/html;charset=utf-8" }, status: 200 });
   } else if (pathname === "/sub") {
     let cfvlessConfig: DataObject = await fetchConfig(
-      "https://raw.githubusercontent.com/fijifbq/vless/main/cfvless-account.json"
+      "https://raw.githubusercontent.com/fijifbq/cfvless/main/cfvless-account.json"
     );
     let cfvless: Array<VlessObject> = [];
 
