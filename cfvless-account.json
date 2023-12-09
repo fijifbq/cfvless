@@ -4,85 +4,82 @@
             "remarks": "Google Cloud",
             "country": "ID",
             "flag": "🇮🇩",
-            "address": "wuz1.pages.dev",
+            "address": "sayang.yeye.my.id",
             "port": 443,
             "uuid": "ff238652-56ec-4985-9014-7b295647b226",
             "encryption": "none",
             "security": "tls",
             "fp": "randomized",
             "type": "ws",
-            "host": "wuz1.pages.dev",
-            "sni": "wuz1.pages.dev",
+            "host": "sayang.yeye.my.id",
+            "sni": "sayang.yeye.my.id",
             "path": "/?ed=2048",
-            "kode_domain": "WUZ1"
+            "kode_domain": "SAYANG"
         },
         {
             "remarks": "Zhejiang",
             "country": "ID",
             "flag": "🇮🇩",
-            "address": "wuz2.pages.dev",
+            "address": "sayang2.yeye.my.id",
             "port": 443,
             "uuid": "ff238652-56ec-4985-9014-7b295647b226",
             "encryption": "none",
             "security": "tls",
             "fp": "randomized",
             "type": "ws",
-            "host": "wuz2.pages.dev",
-            "sni": "wuz2.pages.dev",
+            "host": "sayang2.yeye.my.id",
+            "sni": "sayang2.yeye.my.id",
             "path": "/?ed=2048",
-            "kode_domain": "WUZ2"
+            "kode_domain": "SAYANG2"
         },
         {
             "remarks": "Akamai",
             "country": "SG",
             "flag": "🇸🇬",
-            "address": "wuz3.pages.dev",
+            "address": "sayang3.yeye.my.id",
             "port": 443,
             "uuid": "ff238652-56ec-4985-9014-7b295647b226",
             "encryption": "none",
             "security": "tls",
             "fp": "randomized",
             "type": "ws",
-            "host": "wuz3.pages.dev",
-            "sni": "wuz3.pages.dev",
+            "host": "sayang3.yeye.my.id",
+            "sni": "sayang3.yeye.my.id",
             "path": "/?ed=2048",
-            "kode_domain": "WUZ3"
+            "kode_domain": "SAYANG3"
         },
         {
             "remarks": "Alibaba",
             "country": "SG",
             "flag": "🇸🇬",
-            "address": "wuz4.pages.dev",
+            "address": "sayang4.yeye.my.id",
             "port": 443,
             "uuid": "ff238652-56ec-4985-9014-7b295647b226",
             "encryption": "none",
             "security": "tls",
             "fp": "randomized",
             "type": "ws",
-            "host": "wuz4.pages.dev",
-            "sni": "wuz4.pages.dev",
+            "host": "sayang4.yeye.my.id",
+            "sni": "sayang4.yeye.my.id",
             "path": "/?ed=2048",
-            "kode_domain": "WUZ4"
+            "kode_domain": "SAYANG4"
         },
         {
             "remarks": "Amazon",
             "country": "SG",
             "flag": "🇸🇬",
-            "address": "wuz5.pages.dev",
+            "address": "sayang5.yeye.my.id",
             "port": 443,
             "uuid": "ff238652-56ec-4985-9014-7b295647b226",
             "encryption": "none",
             "security": "tls",
             "fp": "randomized",
             "type": "ws",
-            "host": "wuz5.pages.dev",
-            "sni": "wuz5.pages.dev",
+            "host": "sayang5.yeye.my.id",
+            "sni": "sayang5.yeye.my.id",
             "path": "/?ed=2048",
-            "kode_domain": "WUZ5"
+            "kode_domain": "SAYANG5"
         }
         
-    
-           
-     
     ]
 }
