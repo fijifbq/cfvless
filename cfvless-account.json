@@ -14,7 +14,7 @@
             "host": "sayang.yeye.my.id",
             "sni": "sayang.yeye.my.id",
             "path": "/?ed=2048",
-            "kode_domain": ""
+            "kode_domain": "S1"
         },
         {
             "remarks": "Zhejiang",
@@ -30,7 +30,7 @@
             "host": "sayang2.yeye.my.id",
             "sni": "sayang2.yeye.my.id",
             "path": "/?ed=2048",
-            "kode_domain": "SAYANG2"
+            "kode_domain": "S2"
         },
         {
             "remarks": "Akamai",
@@ -46,7 +46,7 @@
             "host": "sayang3.yeye.my.id",
             "sni": "sayang3.yeye.my.id",
             "path": "/?ed=2048",
-            "kode_domain": "SAYANG3"
+            "kode_domain": "S3"
         },
         {
             "remarks": "Alibaba",
@@ -62,7 +62,7 @@
             "host": "sayang4.yeye.my.id",
             "sni": "sayang4.yeye.my.id",
             "path": "/?ed=2048",
-            "kode_domain": "SAYANG4"
+            "kode_domain": "S4"
         },
         {
             "remarks": "Amazon",
@@ -78,7 +78,167 @@
             "host": "sayang5.yeye.my.id",
             "sni": "sayang5.yeye.my.id",
             "path": "/?ed=2048",
-            "kode_domain": "SAYANG5"
+            "kode_domain": "S5"
+        },
+        {
+            "remarks": "Digital Ocean",
+            "country": "SG",
+            "flag": "🇸🇬",
+            "address": "sayang6.yeye.my.id",
+            "port": 443,
+            "uuid": "ff238652-56ec-4985-9014-7b295647b226",
+            "encryption": "none",
+            "security": "tls",
+            "fp": "randomized",
+            "type": "ws",
+            "host": "sayang6.yeye.my.id",
+            "sni": "sayang6.yeye.my.id",
+            "path": "/?ed=2048",
+            "kode_domain": "S6"
+        },
+        {
+            "remarks": "Gcp SG",
+            "country": "SG",
+            "flag": "🇸🇬",
+            "address": "sayang7.yeye.my.id",
+            "port": 443,
+            "uuid": "ff238652-56ec-4985-9014-7b295647b226",
+            "encryption": "none",
+            "security": "tls",
+            "fp": "randomized",
+            "type": "ws",
+            "host": "sayang7.yeye.my.id",
+            "sni": "sayang7.yeye.my.id",
+            "path": "/?ed=2048",
+            "kode_domain": "S7"
+        },
+        {
+            "remarks": "OVH",
+            "country": "SG",
+            "flag": "🇸🇬",
+            "address": "sayang8.yeye.my.id",
+            "port": 443,
+            "uuid": "ff238652-56ec-4985-9014-7b295647b226",
+            "encryption": "none",
+            "security": "tls",
+            "fp": "randomized",
+            "type": "ws",
+            "host": "sayang8.yeye.my.id",
+            "sni": "sayang8.yeye.my.id",
+            "path": "/?ed=2048",
+            "kode_domain": "S8"
+        },
+        {
+            "remarks": "Tencent",
+            "country": "SG",
+            "flag": "🇸🇬",
+            "address": "sayang9.yeye.my.id",
+            "port": 443,
+            "uuid": "ff238652-56ec-4985-9014-7b295647b226",
+            "encryption": "none",
+            "security": "tls",
+            "fp": "randomized",
+            "type": "ws",
+            "host": "sayang9.yeye.my.id",
+            "sni": "sayang9.yeye.my.id",
+            "path": "/?ed=2048",
+            "kode_domain": "S9"
+        },
+        {
+            "remarks": "Zenlayer",
+            "country": "SG",
+            "flag": "🇸🇬",
+            "address": "sayang10.yeye.my.id",
+            "port": 443,
+            "uuid": "ff238652-56ec-4985-9014-7b295647b226",
+            "encryption": "none",
+            "security": "tls",
+            "fp": "randomized",
+            "type": "ws",
+            "host": "sayang10.yeye.my.id",
+            "sni": "sayang10.yeye.my.id",
+            "path": "/?ed=2048",
+            "kode_domain": "S10"
+        },
+        {
+            "remarks": "Viettel",
+            "country": "VN",
+            "flag": "🇸🇬",
+            "address": "sayang11.yeye.my.id",
+            "port": 443,
+            "uuid": "ff238652-56ec-4985-9014-7b295647b226",
+            "encryption": "none",
+            "security": "tls",
+            "fp": "randomized",
+            "type": "ws",
+            "host": "sayang11.yeye.my.id",
+            "sni": "sayang11.yeye.my.id",
+            "path": "/?ed=2048",
+            "kode_domain": "S11"
+        },
+        {
+            "remarks": "Huawei",
+            "country": "HK",
+            "flag": "🇸🇬",
+            "address": "sayang12.yeye.my.id",
+            "port": 443,
+            "uuid": "ff238652-56ec-4985-9014-7b295647b226",
+            "encryption": "none",
+            "security": "tls",
+            "fp": "randomized",
+            "type": "ws",
+            "host": "sayang12.yeye.my.id",
+            "sni": "sayang12.yeye.my.id",
+            "path": "/?ed=2048",
+            "kode_domain": "S12"
+        },
+        {
+            "remarks": "Zenlayer",
+            "country": "HK",
+            "flag": "🇸🇬",
+            "address": "sayang13.yeye.my.id",
+            "port": 443,
+            "uuid": "ff238652-56ec-4985-9014-7b295647b226",
+            "encryption": "none",
+            "security": "tls",
+            "fp": "randomized",
+            "type": "ws",
+            "host": "sayang13.yeye.my.id",
+            "sni": "sayang13.yeye.my.id",
+            "path": "/?ed=2048",
+            "kode_domain": "S13"
+        },
+        {
+            "remarks": "Oracle",
+            "country": "SG",
+            "flag": "🇸🇬",
+            "address": "sayang14.yeye.my.id",
+            "port": 443,
+            "uuid": "ff238652-56ec-4985-9014-7b295647b226",
+            "encryption": "none",
+            "security": "tls",
+            "fp": "randomized",
+            "type": "ws",
+            "host": "sayang14.yeye.my.id",
+            "sni": "sayang14.yeye.my.id",
+            "path": "/?ed=2048",
+            "kode_domain": "S14"
+        },
+        {
+            "remarks": "G-Core Labs",
+            "country": "SG",
+            "flag": "🇸🇬",
+            "address": "sayang15.yeye.my.id",
+            "port": 443,
+            "uuid": "ff238652-56ec-4985-9014-7b295647b226",
+            "encryption": "none",
+            "security": "tls",
+            "fp": "randomized",
+            "type": "ws",
+            "host": "sayang15.yeye.my.id",
+            "sni": "sayang15.yeye.my.id",
+            "path": "/?ed=2048",
+            "kode_domain": "S15"
         }
         
     ]
