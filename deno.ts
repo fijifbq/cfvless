@@ -31,7 +31,7 @@ async function handleRequest(req: Request) {
   const ccs = url.searchParams.get("cc")?.split(",");
   const servers = url.searchParams.get("server")?.split(",");
   const exclude = parseInt(url.searchParams.get("exclude") || "0");
-  const limit = parseInt(url.searchParams.get("limit") || "10");
+  const limit = parseInt(url.searchParams.get("limit") || "20");
 
   const tlsPorts = [443, 2053, 2083, 2087, 2096, 8443];
   const nonTlsPorts = [80, 8080, 8880, 2052, 2082, 2086, 2095];
