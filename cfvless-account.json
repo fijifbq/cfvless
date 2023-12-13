@@ -255,7 +255,23 @@
             "sni": "sayang16.yeye.my.id",
             "path": "/?ed=2048",
             "kode_domain": "S16"
-       }
+       },
+        {
+            "remarks": "WebHorizon",
+            "country": "SG",
+            "flag": "🇸🇬",
+            "address": "sayang17.yeye.my.id",
+            "port": 443,
+            "uuid": "ff238652-56ec-4985-9014-7b295647b226",
+            "encryption": "none",
+            "security": "tls",
+            "fp": "randomized",
+            "type": "ws",
+            "host": "sayang17.yeye.my.id",
+            "sni": "sayang17.yeye.my.id",
+            "path": "/?ed=2048",
+            "kode_domain": "S17"
+        }
         
     ]
 }
